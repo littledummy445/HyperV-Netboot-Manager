@@ -21,3 +21,7 @@ A lightweight, native PowerShell GUI tool designed to rapidly provision and laun
 3. Open **PowerShell as Administrator** and run the script:
    ```powershell
    .\deploy-netboot-vm.ps1
+
+## Launch netboot.xyz in GitHub Codespaces
+1. You can use netboot.xyz without installing anything locally, just go to this GitHub repo
+2. Then copy the docker command in the README file and then launch a new codespace.
