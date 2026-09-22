@@ -23,5 +23,6 @@ A lightweight, native PowerShell GUI tool designed to rapidly provision and laun
    .\deploy-netboot-vm.ps1
 
 ## Launch netboot.xyz in GitHub Codespaces
-1. You can use netboot.xyz without installing anything locally, just go to this GitHub repo
+1. You can use netboot.xyz without installing anything locally, just go to this GitHub Repository https://github.com/littledummy445/githubcodespaces-netbootxyz
 2. Then copy the docker command in the README file and then launch a new codespace.
+3. And paste the command into the codespaces terminal and then netboot xyz will load up in noVNC
