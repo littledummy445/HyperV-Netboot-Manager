@@ -28,6 +28,5 @@ A lightweight, native PowerShell GUI tool designed to rapidly provision and laun
 3. And paste the command into the codespaces terminal and then netboot xyz will load up in noVNC
 
 ```plaintext
-
-
+https://github.com/littledummy445/githubcodespaces-netbootxyz
 ```
